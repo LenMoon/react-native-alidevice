@@ -2,7 +2,7 @@
 {
   "name": "react-native-alidevice",
   "version": "1.0.0",
-  "description": "",
+  "description": "A ReactNative ALiDevice Library for android and ios",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "liumeng",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
